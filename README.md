@@ -6,3 +6,4 @@ Extracted the data on web page and performed Sentimental analysis of it
 * Performed Sentimental Analysis using Natural Language Processing. Calculated the Positive score, Negative Score, Number of Pronouns, Number of words, Number of sentences of a web 
   page
 * And saved them in excel using automation
+* For full project click on this drive link - https://drive.google.com/drive/folders/1KhDiOxpqnhV3MkU6peBvSvfe4OgkEm4y?usp=sharing
